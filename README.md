@@ -51,10 +51,9 @@ Example: GCD of 20 and 8 is 4 (because 8 / 4 is 2; and 20 / 4 is 5)
 
 - Measure how an algortithm responds to dataset size
 - Big-O notation
-
-* Classifies performance as the input size grows
-* "O" indicates the order of operation: time scale to perform an operation
-* Many alogorithms and data structures have more than one O (Inserting data, searching for data, deleting data, etc.)
+  - Classifies performance as the input size grows
+  - "O" indicates the order of operation: time scale to perform an operation
+  - Many alogorithms and data structures have more than one O (Inserting data, searching for data, deleting data, etc.)
 
 ## Common Big-O Terms
 
