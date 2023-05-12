@@ -64,3 +64,20 @@ Example: GCD of 20 and 8 is 4 (because 8 / 4 is 2; and 20 / 4 is 5)
 | O(n)             | Linear time   | Searching an unsorted array for a specific value                                   |
 | O(n log n)       | Log-linear    | Complex sorting alogorithms like heap sort and merge sort                          |
 | O(n<sup>2</sup>) | Quadratic     | Simple sorting algorithms, such as bubble sort, selection sort, and insertion sort |
+
+## Common Data Structures
+
+- Arrays
+- Linked Lists
+- Stacks and queues
+- Trees
+- Hash tables
+
+### Array Operations
+
+- Calculate itms index: O(1)
+- Insert or delete item at beginning: O(n)
+- Insert or delete item in middle :O(n)
+- Insert or delete item at end: O(1)
+
+### Linked Lists Operations
