@@ -80,4 +80,16 @@ Example: GCD of 20 and 8 is 4 (because 8 / 4 is 2; and 20 / 4 is 5)
 - Insert or delete item in middle :O(n)
 - Insert or delete item at end: O(1)
 
-### Linked Lists Operations
+## Sorting Data
+
+- Bubble Sort
+- Merge Sort
+- Quick sort
+
+### The Bubble Sort
+
+- One of the most basic sorting alogorithms
+- Very simple to understand and implement
+- Performance: O(n<sup>2</sup>)
+- Other sorting alogorithms are generally much better
+- Not considered to be a pratical solution
