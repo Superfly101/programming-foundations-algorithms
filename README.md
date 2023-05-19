@@ -93,3 +93,19 @@ Example: GCD of 20 and 8 is 4 (because 8 / 4 is 2; and 20 / 4 is 5)
 - Performance: O(n<sup>2</sup>)
 - Other sorting alogorithms are generally much better
 - Not considered to be a pratical solution
+
+### The Merge Sort
+
+- Divide-and-congquer algorithm
+- Breaks a dataset into individual pieces and merges them
+- Uses recursion to operate on datasets
+- Performs well on large set of data
+- In general has a performance of O(n log n) time complexity
+
+### The Quicksort
+
+- Divide-and-conquer algorithm, like the merge sort
+- Also uses recursion to perfomr sorting
+- Generally performs better than merge sort, O(n log n)
+- Operates in place on the data
+- Worst case is O(n<sup>2</sup>) when data is mostly sorted already
